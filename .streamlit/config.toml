@@ -1,0 +1,15 @@
+if not exist .streamlit mkdir .streamlit
+(
+echo [theme]
+echo base = "light"
+echo primaryColor = "#286b3a"
+echo backgroundColor = "#eaf2eb"
+echo secondaryBackgroundColor = "#ffffff"
+echo textColor = "#16361d"
+echo font = "sans serif"
+echo.
+echo [server]
+echo headless = true
+echo enableCORS = false
+echo enableXsrfProtection = true
+) > .streamlit\config.toml

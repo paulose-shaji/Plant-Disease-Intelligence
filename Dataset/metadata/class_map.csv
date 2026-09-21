@@ -1,0 +1,90 @@
+source_dataset_path,source_class,canonical_class,crop
+blackgram/BPLD,yellow mosaic,Blackgram - Yellow Mosaic,Blackgram
+blackgram/BPLD,leaf crinckle,Blackgram - Leaf Crinkle,Blackgram
+blackgram/BPLD,anthracnose,Blackgram - Anthracnose,Blackgram
+blackgram/BPLD,powdery mildew,Blackgram - Powdery Mildew,Blackgram
+blackgram/BPLD,healthy,Blackgram - Healthy,Blackgram
+Sugarcane Leaf Disease Dataset,Yellow,Sugarcane - Yellow,Sugarcane
+Sugarcane Leaf Disease Dataset,RedRot,Sugarcane - Red Rot,Sugarcane
+Sugarcane Leaf Disease Dataset,Mosaic,Sugarcane - Mosaic,Sugarcane
+Sugarcane Leaf Disease Dataset,Rust,Sugarcane - Rust,Sugarcane
+Sugarcane Leaf Disease Dataset,Healthy,Sugarcane - Healthy,Sugarcane
+PlantDoc-Dataset/train,Tomato leaf mosaic virus,Tomato - Mosaic Virus,Tomato
+PlantDoc-Dataset/train,Tomato leaf,Tomato - Healthy,Tomato
+PlantDoc-Dataset/train,Corn leaf blight,Corn - Leaf Blight,Corn
+PlantDoc-Dataset/train,Cherry leaf,Cherry - Healthy,Cherry
+PlantDoc-Dataset/train,Squash Powdery mildew leaf,Squash - Powdery Mildew,Squash
+PlantDoc-Dataset/train,Apple rust leaf,Apple - Rust,Apple
+PlantDoc-Dataset/train,Corn Gray leaf spot,Corn - Gray Leaf Spot,Corn
+PlantDoc-Dataset/train,Tomato leaf yellow virus,Tomato - Yellow Leaf Curl Virus,Tomato
+PlantDoc-Dataset/train,grape leaf,Grape - Healthy,Grape
+PlantDoc-Dataset/train,Raspberry leaf,Raspberry - Healthy,Raspberry
+PlantDoc-Dataset/train,Soyabean leaf,Soybean - Healthy,Soybean
+PlantDoc-Dataset/train,Apple leaf,Apple - Healthy,Apple
+PlantDoc-Dataset/train,Tomato Early blight leaf,Tomato - Early Blight,Tomato
+PlantDoc-Dataset/train,Apple Scab Leaf,Apple - Scab,Apple
+PlantDoc-Dataset/train,Potato leaf early blight,Potato - Early Blight,Potato
+PlantDoc-Dataset/train,Tomato leaf late blight,Tomato - Late Blight,Tomato
+PlantDoc-Dataset/train,Tomato Septoria leaf spot,Tomato - Septoria Leaf Spot,Tomato
+PlantDoc-Dataset/train,Blueberry leaf,Blueberry - Healthy,Blueberry
+PlantDoc-Dataset/train,Strawberry leaf,Strawberry - Healthy,Strawberry
+PlantDoc-Dataset/train,grape leaf black rot,Grape - Black Rot,Grape
+PlantDoc-Dataset/train,Corn rust leaf,Corn - Rust,Corn
+PlantDoc-Dataset/train,Peach leaf,Peach - Healthy,Peach
+PlantDoc-Dataset/train,Tomato leaf bacterial spot,Tomato - Bacterial Spot,Tomato
+PlantDoc-Dataset/train,Bell_pepper leaf spot,Bell Pepper - Bacterial Spot,Bell Pepper
+PlantDoc-Dataset/train,Potato leaf late blight,Potato - Late Blight,Potato
+PlantDoc-Dataset/train,Tomato mold leaf,Tomato - Leaf Mold,Tomato
+PlantDoc-Dataset/train,Bell_pepper leaf,Bell Pepper - Healthy,Bell Pepper
+PlantDoc-Dataset/test,Tomato leaf mosaic virus,Tomato - Mosaic Virus,Tomato
+PlantDoc-Dataset/test,Tomato leaf,Tomato - Healthy,Tomato
+PlantDoc-Dataset/test,Corn leaf blight,Corn - Leaf Blight,Corn
+PlantDoc-Dataset/test,Cherry leaf,Cherry - Healthy,Cherry
+PlantDoc-Dataset/test,Squash Powdery mildew leaf,Squash - Powdery Mildew,Squash
+PlantDoc-Dataset/test,Apple rust leaf,Apple - Rust,Apple
+PlantDoc-Dataset/test,Corn Gray leaf spot,Corn - Gray Leaf Spot,Corn
+PlantDoc-Dataset/test,Tomato leaf yellow virus,Tomato - Yellow Leaf Curl Virus,Tomato
+PlantDoc-Dataset/test,grape leaf,Grape - Healthy,Grape
+PlantDoc-Dataset/test,Raspberry leaf,Raspberry - Healthy,Raspberry
+PlantDoc-Dataset/test,Soyabean leaf,Soybean - Healthy,Soybean
+PlantDoc-Dataset/test,Apple leaf,Apple - Healthy,Apple
+PlantDoc-Dataset/test,Tomato Early blight leaf,Tomato - Early Blight,Tomato
+PlantDoc-Dataset/test,Apple Scab Leaf,Apple - Scab,Apple
+PlantDoc-Dataset/test,Potato leaf early blight,Potato - Early Blight,Potato
+PlantDoc-Dataset/test,Tomato leaf late blight,Tomato - Late Blight,Tomato
+PlantDoc-Dataset/test,Tomato Septoria leaf spot,Tomato - Septoria Leaf Spot,Tomato
+PlantDoc-Dataset/test,Blueberry leaf,Blueberry - Healthy,Blueberry
+PlantDoc-Dataset/test,Strawberry leaf,Strawberry - Healthy,Strawberry
+PlantDoc-Dataset/test,grape leaf black rot,Grape - Black Rot,Grape
+PlantDoc-Dataset/test,Corn rust leaf,Corn - Rust,Corn
+PlantDoc-Dataset/test,Peach leaf,Peach - Healthy,Peach
+PlantDoc-Dataset/test,Tomato leaf bacterial spot,Tomato - Bacterial Spot,Tomato
+PlantDoc-Dataset/test,Bell_pepper leaf spot,Bell Pepper - Bacterial Spot,Bell Pepper
+PlantDoc-Dataset/test,Potato leaf late blight,Potato - Late Blight,Potato
+PlantDoc-Dataset/test,Tomato mold leaf,Tomato - Leaf Mold,Tomato
+PlantDoc-Dataset/test,Bell_pepper leaf,Bell Pepper - Healthy,Bell Pepper
+paddy-disease-classification/train_images,tungro,Paddy - Tungro,Paddy
+paddy-disease-classification/train_images,normal,Paddy - Healthy,Paddy
+paddy-disease-classification/train_images,dead_heart,Paddy - Dead Heart,Paddy
+paddy-disease-classification/train_images,hispa,Paddy - Hispa,Paddy
+paddy-disease-classification/train_images,brown_spot,Paddy - Brown Spot,Paddy
+paddy-disease-classification/train_images,downy_mildew,Paddy - Downy Mildew,Paddy
+paddy-disease-classification/train_images,blast,Paddy - Blast,Paddy
+paddy-disease-classification/train_images,bacterial_leaf_streak,Paddy - Bacterial Leaf Streak,Paddy
+paddy-disease-classification/train_images,bacterial_leaf_blight,Paddy - Bacterial Leaf Blight,Paddy
+paddy-disease-classification/train_images,bacterial_panicle_blight,Paddy - Bacterial Panicle Blight,Paddy
+PlantVillageDataset/PlantVillage,Potato___Early_blight,Potato - Early Blight,Potato
+PlantVillageDataset/PlantVillage,Tomato_Leaf_Mold,Tomato - Leaf Mold,Tomato
+PlantVillageDataset/PlantVillage,Pepper__bell___Bacterial_spot,Bell Pepper - Bacterial Spot,Bell Pepper
+PlantVillageDataset/PlantVillage,Tomato_Bacterial_spot,Tomato - Bacterial Spot,Tomato
+PlantVillageDataset/PlantVillage,Potato___Late_blight,Potato - Late Blight,Potato
+PlantVillageDataset/PlantVillage,Tomato_Late_blight,Tomato - Late Blight,Tomato
+PlantVillageDataset/PlantVillage,Tomato_healthy,Tomato - Healthy,Tomato
+PlantVillageDataset/PlantVillage,Tomato_Early_blight,Tomato - Early Blight,Tomato
+PlantVillageDataset/PlantVillage,Tomato__Tomato_mosaic_virus,Tomato - Mosaic Virus,Tomato
+PlantVillageDataset/PlantVillage,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato - Spider Mites,Tomato
+PlantVillageDataset/PlantVillage,Pepper__bell___healthy,Bell Pepper - Healthy,Bell Pepper
+PlantVillageDataset/PlantVillage,Tomato_Septoria_leaf_spot,Tomato - Septoria Leaf Spot,Tomato
+PlantVillageDataset/PlantVillage,Potato___healthy,Potato - Healthy,Potato
+PlantVillageDataset/PlantVillage,Tomato__Target_Spot,Tomato - Target Spot,Tomato
+PlantVillageDataset/PlantVillage,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato - Yellow Leaf Curl Virus,Tomato

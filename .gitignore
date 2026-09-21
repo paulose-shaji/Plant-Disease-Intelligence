@@ -1,0 +1,32 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.tmp
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Large Raw Image Dataset (Ignores all images)
+Dataset/master_images/
+master_images/
+
+# Unused experimental model
+
+# Streamlit Local Secrets & Cache
+.streamlit/secrets.toml
+
+# OS System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+streamlit_app/app_fullscrn.py
+streamlit_app/app_ok.py

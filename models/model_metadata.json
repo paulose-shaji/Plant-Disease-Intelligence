@@ -1,0 +1,20 @@
+{
+    "architecture": "EfficientNetB0",
+    "transfer_learning": true,
+    "pretrained_weights": "ImageNet",
+    "num_classes": 281,
+    "image_size": [
+        224,
+        224
+    ],
+    "batch_size": 16,
+    "initial_learning_rate": 0.001,
+    "fine_tuning_learning_rate": 1e-05,
+    "fine_tuned_layers": 30,
+    "dropout": 0.4,
+    "test_accuracy": 0.8148703342827163,
+    "top_5_accuracy": 0.9419877079898066,
+    "macro_precision": 0.4465345217600474,
+    "macro_recall": 0.4274156682762064,
+    "macro_f1": 0.42282179377147394
+}

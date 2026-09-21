@@ -1,0 +1,12 @@
+{
+    "image_size": [
+        224,
+        224
+    ],
+    "num_classes": 281,
+    "model": "EfficientNetB0",
+    "weights": "ImageNet",
+    "dropout": 0.4,
+    "input_channels": 3,
+    "gradcam_layer": "top_activation"
+}
