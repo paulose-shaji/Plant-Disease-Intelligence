@@ -19,11 +19,11 @@ The project covers the complete workflow from **dataset exploration and preproce
 
 # 🚀 Live Application
 
-🔗 **👉 Open Plant Disease Intelligence App**
+---
 
-> Deployment URL will be added after Streamlit Community Cloud deployment.
+🔗 👉 [**Open Live Plant Disease Intelligence App**](https://plant-disease-intelligence-paulose.streamlit.app/)
 
-The application allows users to upload a plant leaf image and receive a disease classification result through an interactive web interface.
+> Upload a plant leaf image to identify the disease category across 281 classes, view model confidence, inspect Top-5 predictions, and examine the Grad-CAM visual heatmap.
 
 ---
 
